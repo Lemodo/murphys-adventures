@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rpg1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/murphys_adventures/rpg.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
